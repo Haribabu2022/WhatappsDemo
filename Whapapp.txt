@@ -17,3 +17,5 @@ Name: Haribabu
 7. Adding the video call feature
 
 8. Adding 3d picture
+
+9 Additional for status using dialy video
